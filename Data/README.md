@@ -1,2 +1,2 @@
 - This folder is for storing the data used in this research.
-- the deep learning-based urban growth model.
+- When you use data from this repository, you must make clear attribution and notify the creator.
