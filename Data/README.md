@@ -1,1 +1,2 @@
-- This folder is for storing the data used in the deep learning-based urban growth model.
+- This folder is for storing the data used in this research.
+- the deep learning-based urban growth model.
