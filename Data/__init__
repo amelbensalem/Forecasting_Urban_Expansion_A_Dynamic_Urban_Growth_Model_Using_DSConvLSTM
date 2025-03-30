@@ -1,0 +1,2 @@
+This folder is for storing the data used in the deep learning-based urban growth model.
+There are two codes: ConvLSTM (existing model) and DS-ConvLSTM (proposed model), which are spatio-temporal deep learning models. 
