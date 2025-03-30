@@ -1,1 +1,3 @@
-
+- This folder provides a comparison of the two models' predictions for the late 2010s.
+- The maps are the result of a binary classification (0 and 1, with 1 indicating an urban area).
+- This is used for model validation and comparison.
