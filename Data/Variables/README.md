@@ -1,1 +1,2 @@
-
+- This folder provides the data used for training and prediction.
+- These can be read in with a library called `rasterio` in `Python`.
