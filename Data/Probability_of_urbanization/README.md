@@ -1,1 +1,3 @@
-
+- This folder provides the late 2010s predictions from both models and the 2030 predictions from DS-ConvLSTM.
+- All maps represent the probability of urbanization at that time.
+- The closer the probability is to 1, the higher the probability of urbanization.
