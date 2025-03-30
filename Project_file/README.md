@@ -1,1 +1,2 @@
 - This project file was created using ArcGIS pro.
+- You can access the spatial data in the project file by modifying the path to data.
