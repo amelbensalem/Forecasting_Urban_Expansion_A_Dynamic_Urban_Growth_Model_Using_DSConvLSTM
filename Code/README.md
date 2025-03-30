@@ -1,2 +1,3 @@
 - This folder contains code for the models used in the study.
 - There are two codes: **ConvLSTM (existing model)** and **DS-ConvLSTM (proposed model)**, which are spatio-temporal deep learning models.
+- This deep learning model is built on modules provided by `tensorflow` and `keras`, with several other libraries used, including `pandas`, `numpy`, `rasterio`, and others.
