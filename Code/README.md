@@ -1,2 +1,2 @@
 - This folder contains code for the models used in the study.
-- There are two codes: ConvLSTM (existing model) and DS-ConvLSTM (proposed model), which are spatio-temporal deep learning models.
+- There are two codes: **ConvLSTM (existing model)** and **DS-ConvLSTM (proposed model)**, which are spatio-temporal deep learning models.
