@@ -1,1 +1,1 @@
-- This folder provides maps of the results of applying the 2030 scenario under different development or regulatory scenarios.
+- This folder provides maps of the 2030 outcomes under different development or regulatory scenarios.
